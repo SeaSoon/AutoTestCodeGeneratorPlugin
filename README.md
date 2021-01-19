@@ -1,5 +1,6 @@
 # AutoTestCodeGeneratorPlugin
 
+## 一键生成单测代码 -sizon
 ## 更新日志
 - **171101_v1.0**
   - 生成parseFromObj()相关测试代码，不保证正确性
